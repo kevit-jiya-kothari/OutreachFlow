@@ -1,4 +1,4 @@
-# OutreachHub
+# OutreachFlow
 
 OutreachHub is a multi-tenant SaaS platform that helps businesses manage contacts, message templates, and targeted campaigns.
 
@@ -9,7 +9,7 @@ OutreachHub is a multi-tenant SaaS platform that helps businesses manage contact
 - Create, view, update, and delete business workspaces
 - Manage workspace users
 
-### OutreachHub Portal
+### OutreachFlow Portal
 - Workspace-based access
 - Editor and Viewer roles
 - Contact management with tags
@@ -28,7 +28,7 @@ Users can belong to multiple workspaces and switch between their available works
 ## Tech Stack
 
 - Frontend: Angular.js
-- Backend: Node.js / Express.js
+- Backend: NestJS
 - Database: MongoDB
 - Authentication: JWT
 - Charts: Chart.js / Recharts
